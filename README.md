@@ -1,5 +1,4 @@
 # 🧩 RPCS3 Trainer Modules
-A collection of game modules built to extend the RPCS3 Trainer SDK with title specific features.
 ### *Game Specific Extensions for the RPCS3-Trainer-SDK*
 
 [![License](https://img.shields.io/github/license/NightFyre/RPCS3-Trainer-Modules?color=blue)](LICENSE)
